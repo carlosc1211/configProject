@@ -5,12 +5,5 @@
     "routePath": "experiencia",
     "ngModuleName": "ExperienciaModule",
     "isStandalone": false
-  },
-  "regalos": {
-    "remoteEntry": "http://localhost:4202/remoteEntry.js",
-    "exposedModule": "./RegalosModule",
-    "routePath": "regalos",
-    "ngModuleName": "RegalosModule",
-    "isStandalone": false
   }
 }
