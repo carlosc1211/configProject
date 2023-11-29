@@ -1,16 +1,16 @@
 {
-    "experiencia": {
-        "remoteEntry": "",
-        "exposedModule": "",
-        "routePath": "",
-        "ngModuleName": "",
-        "isStandalone": ""
-    },
-    "regalos": {
-        "remoteEntry": "",
-        "exposedModule": "",
-        "routePath": "",
-        "ngModuleName": "",
-        "isStandalone": ""
-    }
+  "experiencia": {
+    "remoteEntry": "http://localhost:4201/remoteEntry.js",
+    "exposedModule": "./ExperienciaModule",
+    "routePath": "experiencia",
+    "ngModuleName": "ExperienciaModule",
+    "isStandalone": false
+  },
+  "regalos": {
+    "remoteEntry": "http://localhost:4202/remoteEntry.js",
+    "exposedModule": "./RegalosModule",
+    "routePath": "regalos",
+    "ngModuleName": "RegalosModule",
+    "isStandalone": false
+  }
 }
